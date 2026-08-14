@@ -10,10 +10,10 @@ Escolha um processo de negócio que pode ser observado dentro do Monkey Mart e d
 Considerando o processo escolhido:
 
 a) Qual é a principal entrada desse processo? 
-Resposta: A principal entrada pode ser definida como os clientes que chegam a feira querendo algum produto específico.
+- Resposta: A principal entrada pode ser definida como os clientes que chegam a feira querendo algum produto específico.
 
 b) Qual é a saída ou resultado esperado? 
-Resposta: A saída podemos definir como sendo o pagamento dos clientes em cima do produto requirido.
+- Resposta: A saída podemos definir como sendo o pagamento dos clientes em cima do produto requirido.
 
 3. Atividades
 Identifique pelo menos quatro atividades que fazem parte desse processo e organize-as na ordem em que normalmente acontecem.
