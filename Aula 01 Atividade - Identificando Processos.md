@@ -2,12 +2,10 @@ Atividade – Identificando Processos de Negócio no Monkey Mart
 
 Questões
 
-1. Identificação do processo
-Escolha um processo de negócio que pode ser observado dentro do Monkey Mart e descreva brevemente qual é o seu objetivo.
+1. Identificação do processo. Escolha um processo de negócio que pode ser observado dentro do Monkey Mart e descreva brevemente qual é o seu objetivo.
 - Resposta: O processo de negócio identificado na dinâmica do jogo Monkey Mart pode ser de uma feira, tendo como objetivo o desenvolvimento de condimentos para os pedidos do clientes. 
 
-2. Entrada e saída
-Considerando o processo escolhido:
+2. Entrada e saída. Considerando o processo escolhido:
 
 a) Qual é a principal entrada desse processo? 
 - Resposta: A principal entrada pode ser definida como os clientes que chegam a feira querendo algum produto específico.
