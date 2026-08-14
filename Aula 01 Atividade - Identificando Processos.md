@@ -23,6 +23,7 @@ b) Qual é a saída ou resultado esperado?
   - Atividade 4 → Processo de acordar os funcionários: o macaco funcionário dorme, o macaco gerente percebe, vai até o funcionário, fica   parado em cima dele para acordá-lo.
 
 4. Cliente e geração de valor
+   
 a) Quem pode ser considerado o cliente desse processo? 
 - Resposta: Os macacos que são clientes que chegam para realizar compras na feira.
 
@@ -53,14 +54,10 @@ Escolha uma melhoria realizada no jogo e explique como essa melhoria afeta o pro
 
 - Resposta: Contratação de funcionários: faz com que o gerente macaco diminua as suas responsabilidades, focando em expansão da feira. Enquanto alguns funcionários realizam as reposições e cuidem da venda, outros podem cuidar da organização dos clientes no estabelecimento diminuindo bagunças.
 
-9. Integração entre atividades
-O que aconteceria com o mercado se uma das atividades, como produção, abastecimento das prateleiras ou atendimento no caixa, deixasse de funcionar adequadamente?
-
-Explique como uma atividade pode afetar as demais atividades do processo.
+9. Integração entre atividades. O que aconteceria com o mercado se uma das atividades, como produção, abastecimento das prateleiras ou atendimento no caixa, deixasse de funcionar adequadamente? Explique como uma atividade pode afetar as demais atividades do processo.
 
 - Resposta: se a produção de milho for afetada e parar de ocorrer, irá causar um gargalo pois não irá ocorrer a venda de milho, ovos e leite. Dessa maneira, uma demanda alta sobre esses produtos irá ocorrer e não terá estoque.
 
-10. Visão geral
-Depois de jogar Monkey Mart, explique com suas palavras:
+10. Visão geral. Depois de jogar Monkey Mart, explique com suas palavras:
 
 - Resposta: Por que administrar o mercado pode ser entendido como gerenciar um conjunto de processos de negócio e não apenas como executar tarefas isoladas? Pode ser entendido como um conjunto de processos pois todas as etapas influenciam e são essenciais para o funcionamento da feira. Se alguma produção parar de ocorrer, as prateleiras não terão produtos para serem vendidos. Se não temos funcionários, o desenvolvimento do mercado ficará lento e os clientes ficarão frustrados e também não gerará lucro. Dessa maneira, as demandas não irão fluir fazendo com que o processo precise ser encerrado.
