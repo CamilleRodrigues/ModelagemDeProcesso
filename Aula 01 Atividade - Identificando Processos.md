@@ -6,7 +6,7 @@ Questões
 Escolha um processo de negócio que pode ser observado dentro do Monkey Mart e descreva brevemente qual é o seu objetivo.
 - Resposta: O processo de negócio identificado na dinâmica do jogo Monkey Mart pode ser de uma feira, tendo como objetivo o desenvolvimento de condimentos para os pedidos do clientes. 
 
-3. Entrada e saída
+2. Entrada e saída
 Considerando o processo escolhido:
 
 a) Qual é a principal entrada desse processo? 
@@ -15,13 +15,12 @@ a) Qual é a principal entrada desse processo?
 b) Qual é a saída ou resultado esperado? 
 - Resposta: A saída podemos definir como sendo o pagamento dos clientes em cima do produto requirido.
 
-3. Atividades
-Identifique pelo menos quatro atividades que fazem parte desse processo e organize-as na ordem em que normalmente acontecem.
-Resposta:
-- Atividade 1 → Processo de venda milho: o macaco faz a colheita do milho, coloca na estante para a venda e o cliente realiza a compra;
-- Atividade 2 → Processo de venda do ovo: o macaco faz a colheita do milho, alimenta a galinha, a galinha come o milho, gera o ovo, o macaco faz a colheita do ovo, coloca para a venda e o cliente realiza a compra;
-- Atividade 3 → Processo de venda do leite: o macaco faz a colheita do milho, alimenta a vaca, a vaca come o milho, gera o leite, o macaco faz a colheita do leite, coloca para a venda e o cliente realiza a compra;
-- Atividade 4 → Processo de acordar os funcionários: o macaco funcionário dorme, o macaco gerente percebe, vai até o funcionário, fica   parado em cima dele para acordá-lo.
+3. Atividades. Identifique pelo menos quatro atividades que fazem parte desse processo e organize-as na ordem em que normalmente acontecem.
+- Resposta:
+  - Atividade 1 → Processo de venda milho: o macaco faz a colheita do milho, coloca na estante para a venda e o cliente realiza a compra;
+  - Atividade 2 → Processo de venda do ovo: o macaco faz a colheita do milho, alimenta a galinha, a galinha come o milho, gera o ovo, o macaco faz a colheita do ovo, coloca para a venda e o cliente realiza a compra;
+  - Atividade 3 → Processo de venda do leite: o macaco faz a colheita do milho, alimenta a vaca, a vaca come o milho, gera o leite, o macaco faz a colheita do leite, coloca para a venda e o cliente realiza a compra;
+  - Atividade 4 → Processo de acordar os funcionários: o macaco funcionário dorme, o macaco gerente percebe, vai até o funcionário, fica   parado em cima dele para acordá-lo.
 
 4. Cliente e geração de valor
 Quem pode ser considerado o cliente desse processo? 
