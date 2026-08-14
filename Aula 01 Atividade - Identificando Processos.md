@@ -31,9 +31,11 @@ b) Qual valor ou resultado o processo entrega para esse cliente?
 - Resposta: A entrega dos produtos e a satisfação do cliente ao realizar as compras.
 
 5. Recursos. Quais recursos são necessários para que o processo funcione?
+   
 - Resposta: Inicialmente, as bananas e milho. Após a venda dos produtos iniciais, foi possível realizar a contratação de funcionários que pudessem realizar as funções disponíveis na feira, como o caixa, reposição de produtos e alimentação dos animais.
 
 6. Processos de negócio. Durante o jogo existem diferentes processos acontecendo simultaneamente. Identifique um exemplo para cada tipo abaixo e justifique sua escolha:
+   
 - Processo primário: está diretamente relacionado à entrega de valor ao cliente.
   - Resposta: reposição de estoque.
 
@@ -43,14 +45,11 @@ b) Qual valor ou resultado o processo entrega para esse cliente?
 - Processo de gerenciamento: está relacionado ao planejamento, controle ou melhoria do negócio.
   - Resposta: contratação de funcionários.
 
-7. Gargalos
-Durante o jogo, provavelmente existem momentos em que clientes ficam esperando, produtos acabam ou determinadas atividades demoram para serem executadas.
-
-Identifique um gargalo observado durante o jogo e explique como ele afeta o funcionamento do mercado.
+7. Gargalos. Durante o jogo, provavelmente existem momentos em que clientes ficam esperando, produtos acabam ou determinadas atividades demoram para serem executadas. Identifique um gargalo observado durante o jogo e explique como ele afeta o funcionamento do mercado.
+   
 - Resposta: Quando os animais ficam sem receber alimentação e não produzem os alimentos que devem ser vendidos na feira, isso interfere na compra fazendo com que tenha um grande volume de clientes que irão ficar sem o produto devido a falta de estoque. 
 
-8. Melhoria do processo
-Escolha uma melhoria realizada no jogo e explique como essa melhoria afeta o processo de negócio.
+8. Melhoria do processo. Escolha uma melhoria realizada no jogo e explique como essa melhoria afeta o processo de negócio.
 
 - Resposta: Contratação de funcionários: faz com que o gerente macaco diminua as suas responsabilidades, focando em expansão da feira. Enquanto alguns funcionários realizam as reposições e cuidem da venda, outros podem cuidar da organização dos clientes no estabelecimento diminuindo bagunças.
 
