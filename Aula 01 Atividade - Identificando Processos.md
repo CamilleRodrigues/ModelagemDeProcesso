@@ -8,6 +8,7 @@ Escolha um processo de negócio que pode ser observado dentro do Monkey Mart e d
 
 3. Entrada e saída
 Considerando o processo escolhido:
+
 a) Qual é a principal entrada desse processo? 
 Resposta: A principal entrada pode ser definida como os clientes que chegam a feira querendo algum produto específico.
 
