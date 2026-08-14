@@ -23,29 +23,24 @@ b) Qual é a saída ou resultado esperado?
   - Atividade 4 → Processo de acordar os funcionários: o macaco funcionário dorme, o macaco gerente percebe, vai até o funcionário, fica   parado em cima dele para acordá-lo.
 
 4. Cliente e geração de valor
-Quem pode ser considerado o cliente desse processo? 
+a) Quem pode ser considerado o cliente desse processo? 
 - Resposta: Os macacos que são clientes que chegam para realizar compras na feira.
 
-Qual valor ou resultado o processo entrega para esse cliente? 
+b) Qual valor ou resultado o processo entrega para esse cliente? 
 - Resposta: A entrega dos produtos e a satisfação do cliente ao realizar as compras.
 
-5. Recursos
-Quais recursos são necessários para que o processo funcione?
+5. Recursos. Quais recursos são necessários para que o processo funcione?
 - Resposta: Inicialmente, as bananas e milho. Após a venda dos produtos iniciais, foi possível realizar a contratação de funcionários que pudessem realizar as funções disponíveis na feira, como o caixa, reposição de produtos e alimentação dos animais.
 
-7. Processos de negócio
-Durante o jogo existem diferentes processos acontecendo simultaneamente.
+6. Processos de negócio. Durante o jogo existem diferentes processos acontecendo simultaneamente. Identifique um exemplo para cada tipo abaixo e justifique sua escolha:
+- Processo primário: está diretamente relacionado à entrega de valor ao cliente.
+  - Resposta: reposição de estoque.
 
-Identifique um exemplo para cada tipo abaixo e justifique sua escolha:
+- Processo de suporte: auxilia na execução dos processos principais.
+  - Resposta: segurança para a expulsão de arruaceiros.
 
-a) Processo primário: está diretamente relacionado à entrega de valor ao cliente.
-Resposta: reposição de estoque.
-
-b) Processo de suporte: auxilia na execução dos processos principais.
-Resposta: segurança para a expulsão de arruaceiros.
-
-c) Processo de gerenciamento: está relacionado ao planejamento, controle ou melhoria do negócio.
-Resposta: contratação de funcionários.
+- Processo de gerenciamento: está relacionado ao planejamento, controle ou melhoria do negócio.
+  - Resposta: contratação de funcionários.
 
 7. Gargalos
 Durante o jogo, provavelmente existem momentos em que clientes ficam esperando, produtos acabam ou determinadas atividades demoram para serem executadas.
